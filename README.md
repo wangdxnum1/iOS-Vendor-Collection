@@ -27,3 +27,20 @@ Github地址:[Github](https://github.com/yulingtianxia/TBActionSheet)
 ![preview image](images/TBActionSheet/demo.gif)
 ![preview image](images/TBActionSheet/iPhone4s.jpg)
 ![preview image](images/TBActionSheet/iPhone6p.jpg)
+
+
+###3.ActionSheetPicker-3.0
+
+介绍：ActionSheetPicker = UIPickerView + UIActionSheet
+
+Github地址:[Github](https://github.com/skywinder/ActionSheetPicker-3.0)
+
+切图（来自源作者）:
+![preview image](images/ActionSheetPicker-3.0/blur.png)
+![preview image](images/ActionSheetPicker-3.0/custom.png)
+![preview image](images/ActionSheetPicker-3.0/date.png)
+![preview image](images/ActionSheetPicker-3.0/example.png)
+![preview image](images/ActionSheetPicker-3.0/ipad.png)
+![preview image](images/ActionSheetPicker-3.0/locale.png)
+![preview image](images/ActionSheetPicker-3.0/string.png)
+![preview image](images/ActionSheetPicker-3.0/time.png)
