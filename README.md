@@ -44,3 +44,13 @@ Github地址:[Github](https://github.com/skywinder/ActionSheetPicker-3.0)
 ![preview image](images/ActionSheetPicker-3.0/locale.png)
 ![preview image](images/ActionSheetPicker-3.0/string.png)
 ![preview image](images/ActionSheetPicker-3.0/time.png)
+
+###4.LPActionSheet
+
+简介：仿微信的弹出sheet
+Github地址:[Github](https://github.com/wenxiangjiang/LPActionSheet)
+中文介绍地址：[简书](http://www.jianshu.com/p/e76e0db0c953)
+
+切图（来自源作者）:
+![preview image](images/LPActionSheet/LPActionSheet_Landscape.png)
+![preview image](images/LPActionSheet/LPActionSheet.png)
