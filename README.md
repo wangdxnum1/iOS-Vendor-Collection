@@ -9,7 +9,7 @@ iOS第三方轮子收集，做个笔记。
 
 Github地址 [Github](https://github.com/tianzhuo112/VTMagic)
 
-中文简书地址：[简书](http://www.jianshu.com/p/cb2edb21055f)
+中文介绍地址：[简书](http://www.jianshu.com/p/cb2edb21055f)
 
 切图（来自源作者）:
 ![preview image](images/VTMagic/magic.gif)
