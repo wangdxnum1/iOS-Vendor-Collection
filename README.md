@@ -13,3 +13,17 @@ Github地址 [Github](https://github.com/tianzhuo112/VTMagic)
 
 切图（来自源作者）:
 ![preview image](images/VTMagic/magic.gif)
+
+###2.TBActionSheet
+
+简介：类似系统自带的UIActionSheet
+
+Github地址:[Github](https://github.com/yulingtianxia/TBActionSheet)
+
+中文介绍地址:[作者博客地址](http://yulingtianxia.com/blog/2016/07/18/TBActionSheet/)
+
+切图（来自源作者）:
+![preview image](images/TBActionSheet/addButton.gif)
+![preview image](images/TBActionSheet/demo.gif)
+![preview image](images/TBActionSheet/iPhone4s.jpg)
+![preview image](images/TBActionSheet/iPhone6p.jpg)
