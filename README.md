@@ -12,6 +12,7 @@ Github地址 [Github](https://github.com/tianzhuo112/VTMagic)
 中文介绍地址：[简书](http://www.jianshu.com/p/cb2edb21055f)
 
 切图（来自源作者）:
+
 ![preview image](images/VTMagic/magic.gif)
 
 ###2.TBActionSheet
@@ -23,6 +24,7 @@ Github地址:[Github](https://github.com/yulingtianxia/TBActionSheet)
 中文介绍地址:[作者博客地址](http://yulingtianxia.com/blog/2016/07/18/TBActionSheet/)
 
 切图（来自源作者）:
+
 ![preview image](images/TBActionSheet/addButton.gif)
 ![preview image](images/TBActionSheet/demo.gif)
 ![preview image](images/TBActionSheet/iPhone4s.jpg)
@@ -36,6 +38,7 @@ Github地址:[Github](https://github.com/yulingtianxia/TBActionSheet)
 Github地址:[Github](https://github.com/skywinder/ActionSheetPicker-3.0)
 
 切图（来自源作者）:
+
 ![preview image](images/ActionSheetPicker-3.0/blur.png)
 ![preview image](images/ActionSheetPicker-3.0/custom.png)
 ![preview image](images/ActionSheetPicker-3.0/date.png)
@@ -52,6 +55,7 @@ Github地址:[Github](https://github.com/wenxiangjiang/LPActionSheet)
 中文介绍地址：[简书](http://www.jianshu.com/p/e76e0db0c953)
 
 切图（来自源作者）:
+
 ![preview image](images/LPActionSheet/LPActionSheet_Landscape.png)
 ![preview image](images/LPActionSheet/LPActionSheet.png)
 
@@ -64,6 +68,7 @@ Github地址:[Github](https://github.com/iThinkerYZ/YZPullDownMenuDemo)
 中文介绍地址:[简书](http://www.jianshu.com/p/0e1bb29be42e)
 
 截图（来自作者简书）
+
 ![preview image](images/YZPullDownMenuDemo/11.gif)
 
 
@@ -73,6 +78,7 @@ Github地址:[Github](https://github.com/iThinkerYZ/YZPullDownMenuDemo)
 Github地址:[Github](https://github.com/EddyBorja/MLPAutoCompleteTextField)
 
 截图（来自github）
+
 ![preview image](images/MLPAutoCompleteTextField/1.png)
 ![preview image](images/MLPAutoCompleteTextField/2.png)
 
@@ -86,6 +92,7 @@ Github地址:[Github](https://github.com/facebook/Shimmer)
 介绍地址:[Github](https://github.com/facebook/Shimmer)
 
 截图：（来自github）
+
 ![preview image](images/Shimmer/shimmer.gif)
 
 ###2.ParallaxTableViewHeader下拉的时候，头部图片变大
@@ -94,6 +101,7 @@ Github地址:[Github](https://github.com/facebook/Shimmer)
 Github地址:[Github](https://github.com/Vinodh-G/ParallaxTableViewHeader)
 
 截图：（来自github）
+
 ![preview image](images/ParallaxTableViewHeader/1.png)
 ![preview image](images/ParallaxTableViewHeader/2.png)
 ![preview image](images/ParallaxTableViewHeader/3.png)
@@ -107,4 +115,21 @@ Github地址:[Github](https://github.com/iThinkerYZ/YZHeaderScaleImage)
 中文介绍地址:[简书](http://www.jianshu.com/p/859e3ef76b05)
 
 截图：（来自简书）
+
 ![preview image](images/YZHeaderScaleImage/1.gif)
+
+
+
+## 整体效果
+
+###1.CollectionViewClassifyMenu
+
+简介：类似帅选标签的效果
+
+Github地址:[Github](https://github.com/ChenYilong/CollectionViewClassifyMenu)
+
+截图：（来自简书）
+
+![preview image](images/CollectionViewClassifyMenu/1.gif)
+
+![preview image](images/CollectionViewClassifyMenu/2.gif)
