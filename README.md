@@ -78,3 +78,24 @@ Github地址:[Github](https://github.com/facebook/Shimmer)
 
 截图：（来自github）
 ![preview image](images/Shimmer/shimmer.gif)
+
+###2.ParallaxTableViewHeader下拉的时候，头部图片变大
+
+简介：下拉的时候，头部图片变大
+Github地址:[Github](https://github.com/Vinodh-G/ParallaxTableViewHeader)
+
+截图：（来自github）
+![preview image](images/ParallaxTableViewHeader/1.png)
+![preview image](images/ParallaxTableViewHeader/2.png)
+![preview image](images/ParallaxTableViewHeader/3.png)
+
+###3.YZHeaderScaleImage 集成tableView头部缩放视图
+
+简介:一行代码快速集成tableView头部缩放视图
+
+Github地址:[Github](https://github.com/iThinkerYZ/YZHeaderScaleImage)
+
+中文介绍地址:[简书](http://www.jianshu.com/p/859e3ef76b05)
+
+截图：（来自简书）
+![preview image](images/YZHeaderScaleImage/1.gif)
