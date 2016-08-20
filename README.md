@@ -54,3 +54,27 @@ Github地址:[Github](https://github.com/wenxiangjiang/LPActionSheet)
 切图（来自源作者）:
 ![preview image](images/LPActionSheet/LPActionSheet_Landscape.png)
 ![preview image](images/LPActionSheet/LPActionSheet.png)
+
+###5.搜索界面下拉菜单框架，类似百度外卖，美团外卖
+
+简介：搜索界面下拉菜单框架
+
+Github地址:[Github](https://github.com/iThinkerYZ/YZPullDownMenuDemo)
+
+中文介绍地址:[简书](http://www.jianshu.com/p/0e1bb29be42e)
+
+截图（来自作者简书）
+![preview image](images/YZPullDownMenuDemo/11.gif)
+
+
+##效果
+
+###1.facebook 出品的Shimmer一个效果图，文字闪光已过的效果
+
+简介：见截图的效果
+Github地址:[Github](https://github.com/facebook/Shimmer)
+
+介绍地址:[Github](https://github.com/facebook/Shimmer)
+
+截图：（来自github）
+![preview image](images/Shimmer/shimmer.gif)
