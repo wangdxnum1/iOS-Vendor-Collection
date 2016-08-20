@@ -67,6 +67,15 @@ Github地址:[Github](https://github.com/iThinkerYZ/YZPullDownMenuDemo)
 ![preview image](images/YZPullDownMenuDemo/11.gif)
 
 
+###6.MLPAutoCompleteTextField输入的时候自动提示
+
+简介：输入的时候自动提示
+Github地址:[Github](https://github.com/EddyBorja/MLPAutoCompleteTextField)
+
+截图（来自github）
+![preview image](images/MLPAutoCompleteTextField/1.png)
+![preview image](images/MLPAutoCompleteTextField/2.png)
+
 ##效果
 
 ###1.facebook 出品的Shimmer一个效果图，文字闪光已过的效果

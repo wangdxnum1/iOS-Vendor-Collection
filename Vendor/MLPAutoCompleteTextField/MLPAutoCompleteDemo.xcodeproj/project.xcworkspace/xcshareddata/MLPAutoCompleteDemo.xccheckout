@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A3847C46-35E5-4FE9-8566-1E1096A7B3AD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MLPAutoCompleteDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>38BAA13FE9127B52572359F2041DDF2C1CD49C4D</key>
+		<string>https://github.com/EddyBorja/MLPAutoCompleteTextField.git</string>
+		<key>DD67C4A37BA8705A89363F98E92A1DFA467172B9</key>
+		<string>https://github.com/EddyBorja/markovator.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MLPAutoCompleteDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>38BAA13FE9127B52572359F2041DDF2C1CD49C4D</key>
+		<string>../..</string>
+		<key>DD67C4A37BA8705A89363F98E92A1DFA467172B9</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/EddyBorja/MLPAutoCompleteTextField.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>38BAA13FE9127B52572359F2041DDF2C1CD49C4D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+<<<<<<< HEAD
+			<string>DD67C4A37BA8705A89363F98E92A1DFA467172B9</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+=======
+>>>>>>> 2031e7016d4f2a02ae5fc43369c2447b064ff158
+			<string>38BAA13FE9127B52572359F2041DDF2C1CD49C4D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MLPAutoCompleteTextField</string>
+		</dict>
+	</array>
+</dict>
+</plist>
